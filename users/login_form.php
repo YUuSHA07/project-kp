@@ -9,7 +9,7 @@
     <div>
         <h3>Login</h3>
         <form action="login_proses.php" method="POST">
-            <div class="mb-3">
+            <div>
                 <label for="id_user">ID User</label>
                 <input type="text" id="id_user" name="id_user" required>
             </div>
