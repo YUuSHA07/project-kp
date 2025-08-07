@@ -103,6 +103,5 @@ function tampilkanKelasCard($kelas_list, $conn) {
     ?>
 </div>
 
-<script src="../css/bootstrap-5.3.7-dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
